@@ -1,0 +1,20 @@
+  body
+  {
+    color: rgb(158, 222, 233);
+    background: rgb(93, 129, 207);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_member, #result_member_name  , #result_member_accuracy
+  {
+    color: yellow;
+  }
